@@ -1,0 +1,23 @@
+{
+  "name": "webpack-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julianmelero/Webpack-4.git"
+  },
+  "author": "Julián Melero Hidalgo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/julianmelero/Webpack-4/issues"
+  },
+  "homepage": "https://github.com/julianmelero/Webpack-4#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^4.32.2"
+  }
+}
